@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "34963714637",
+    "project_id": "contactapp-578cb",
+    "storage_bucket": "contactapp-578cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34963714637:android:79daa0df24d0dcb6de2204",
+        "android_client_info": {
+          "package_name": "com.example.adminapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34963714637-h12r1lg9cuhhqopt5o1qcemcc1g505ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTX0zdB1wwzoq7LlJHuexzZUe2iH5zYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34963714637-h12r1lg9cuhhqopt5o1qcemcc1g505ui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34963714637-c0i5ejcqofe8nfjlourc0nhjcg067v5o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.contactapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34963714637:android:6f0f526c1af2398dde2204",
+        "android_client_info": {
+          "package_name": "com.example.contactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34963714637-h12r1lg9cuhhqopt5o1qcemcc1g505ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTX0zdB1wwzoq7LlJHuexzZUe2iH5zYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34963714637-h12r1lg9cuhhqopt5o1qcemcc1g505ui.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34963714637-c0i5ejcqofe8nfjlourc0nhjcg067v5o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.contactapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
